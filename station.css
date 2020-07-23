@@ -1,0 +1,11 @@
+.icon{
+    width: 100px; 
+    height: 100px;
+}
+.time {
+    color: red; 
+    background: #e3e3e3;
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+}
